@@ -1,6 +1,6 @@
 # Automation Demonstration Overview
 Purpose of of this repo is to provide automation examples of Ansible and Python to interact with REST API's available in CVP and EOS.  The standard Data Center ADC Leaf/Spine Lab is utilized.  There is a Ansible module **read_csv.py** that needs to be copied into the proper location for anisble modules.  This is outlined in step 4 in the Demonstration - Preparation section below.  
-![graphic](adc-demo-examples.png = 400px)
+![graphic](adc-demo-examples.png =400x)
 
 # Demonstration - Preparation
 1. Create & Start an ADC Data Center - Latest Instance (OneLogin)
