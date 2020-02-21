@@ -1,6 +1,6 @@
 # Automation Demonstration Overview
 Purpose of of this repo is to provide a canned demo for automation utilizing examples of Ansible and Python to interact with the API's available in CVP and EOS.
-[!graphic](adc-demo-examples.png)
+[![graphic](adc-demo-examples.png)]
 
 # Demonstration - Preparation
 1. Create & Start an ADC Data Center - Latest Instance (OneLogin)
