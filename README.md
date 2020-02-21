@@ -1,5 +1,5 @@
 # Automation Demonstration Overview
-Purpose of of this repo is to provide a canned demo for automation utilizing examples of Ansible and Python to interact with the API's available in CVP and EOS.
+Purpose of of this repo is to provide automation examples of Ansible and Python to interact with REST API's available in CVP and EOS.  The standard Data Center ADC Leaf/Spine Lab is utilized.
 ![graphic](adc-demo-examples.png)
 
 # Demonstration - Preparation
